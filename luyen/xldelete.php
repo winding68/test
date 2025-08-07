@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    đc kio nào
+    
 </body>
 </html>

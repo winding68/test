@@ -32,7 +32,7 @@
         }
     }
     else{
-        echo 'bạn cần nhập đầy đủ thông tin tao test';
+        echo 'bạn cần nhập đầy đủ thông tin tao test lần 2';
     }
  
     ?>
